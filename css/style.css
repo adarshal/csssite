@@ -1,0 +1,54 @@
+
+
+body{
+background-color: #E4F9F5;
+margin=0px;
+text-align:center;
+font-family: Merriweather,serif;
+
+}
+
+h1{
+margin: 50px auto 0 ;
+color: #66BFBF;
+font-family: Sacramento,cursive;
+font-size: 5.56rem;
+line-height: 2;
+}
+h2{
+font-weight: normal;
+}
+h3{
+color: #11999E;
+}
+hr{
+border-style: dotted none none;
+border-color: #3adb35;
+border-width: 10px;
+width: 6%;
+}
+
+.SPAN_A{
+text-decoration: underline;
+}
+.top-cloud{
+position: absolute;
+left: 65%;
+top:100px;
+}
+.bottom-cloud{
+position:absolute;
+right: 65%;
+}
+.skills-img{
+border-radius: 50px 50px 50px 50px;
+}
+.skill-row{
+image-resolution: 100px 100px;
+}
+.top-container{
+padding-top: 75px;
+}
+.footer-link{
+color: #11999E;
+}
